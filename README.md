@@ -1,2 +1,2 @@
 # coursera-ml-foundations
-Exercises for the [ml-foundations course](https://www.coursera.org/learn/ml-foundations) on coursera
+Exercises for the course [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) on coursera
